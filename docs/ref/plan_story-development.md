@@ -62,7 +62,7 @@ Vault + C2M sources surveyed 2026-08-13. Curation is demand-driven: selects for 
 | Transfer | Pattern across domains | Yacht model beside museum model |
 
 **Work order:**
-1. **C2M canonicalization** — spec ready: `ref/plan_c2m-canonicalization.md`. Overnight Phase 1 (inventory/dedup/classify/propose, zero source writes; Haiku census + Sonnet classification + top-tier QC) → morning review gate → Phase 2 copy-execute into `01-Projects Vault/C2M/` per PS ten-folder convention (`23111-0062-SAILS`, `23111-0051-DOTS`). Sources: `z_PROJECTS_ARCHIVE/C2M/` + `~/Documents/_temp/_C2M misc/` + any Mark names at session start. Launch from CC CLI.
+1. **C2M canonicalization** — **Phase 1 COMPLETE 2026-08-13 (overnight run); AT REVIEW GATE.** Report + checklist: `.c2m-triage/PHASE1_REPORT.md`; contact sheets: `.c2m-triage/sheets/index.html`. 1,771 files / 19.5 GB inventoried, 51 dup groups (0.54 GB), 428/442 videos thumbnailed (14 corrupt), 94% of the 1,324 UNKNOWN files date-resolvable once Mark confirms phase boundaries. Zero source writes. Mark reviews the gate checklist, then says "execute Phase 2" (copy into `01-Projects Vault/C2M/`, spec: `ref/plan_c2m-canonicalization.md`).
 2. **C2M website selects pass** — after Phase 2, brief: `ref/curation_c2m-sails-dots.md`. Key finds: rebar SD PDF = documentary evidence for Sails Irreversibility beat; DOTS section drawings 01–11 likely answer the LAX skeleton's fork questions. Gated-PDF cuts (per audience model above) source from these selects.
 3. Selects-destination convention (vault-root `04-Website Vault/` vs. per-project) — PENDING Mark. Recommendation on file: vault-root, chapter structure.
 4. BADM selects pass — `01-Projects Vault/PS/0692-BADM/`; 3–5 selects per beat, hero candidates flagged.
