@@ -17,6 +17,9 @@ dist-ssr
 !.vscode/extensions.json
 .idea
 .DS_Store
+
+# C2M canonicalization working dir (manifests, thumbnails, contact sheets)
+.c2m-triage/
 *.suo
 *.ntvs*
 *.njsproj
