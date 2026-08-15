@@ -69,6 +69,7 @@ Canonical media archive (drawings, photos, video, 3D):
 
 - `01-Projects Vault/PS/` — 39 Pacific Studio projects, numbered. `0692-BADM` is the case-study project. Per-project structure: `01_Admin` … `10_Closeout`, with `04_Drawings`, `06_Photos`, `07_Video`, `08_3D`.
 - `01-Projects Vault/C2M/` — **canonicalized 2026-08-13** (gap closed). `M100-SAILS_Clipper_Ship`, `M101-DOTS_Distance_of_the_Sun`, `M999-C2M_Misc`, `M000-C2M_Standards`; same ten-folder convention, month subfolders for unnamed media. Provenance + flag legend: `_README_provenance.md` at C2M root; manifests in `mb3design-site/.c2m-triage/` (gitignored). Also created: `01-Projects Vault/FACTURE/` (portfolio material), `05-RFP Vault/` (unsuccessful bids).
+- `04-Website Vault/{sails,dots,badm}/{01_Vision…07_Reveal}/` — **derived, generated, never hand-curated** (ruled 2026-08-15). Selects are rows in `docs/ref/selects_manifest.csv` (repo); `scripts/materialize_selects.py` copies + hash-verifies them into the vault folder. Edit the manifest, re-run the script; `--prune` removes stale files.
 - Vault originals are read-only in practice: curation = copy selects out; never move, rename, or delete originals. C2M sources (`z_PROJECTS_ARCHIVE/C2M/`, `~/Documents/_temp/_C2M misc/`) remain in place uncurated; retiring them is Phase 4, manual, Mark-only.
 - Media binaries never get committed to this git repo. Web-optimized exports only, into the site asset pipeline.
 
