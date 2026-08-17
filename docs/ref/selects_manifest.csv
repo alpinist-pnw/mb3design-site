@@ -1,14 +1,42 @@
 project,chapter,beat,hero,source_path,notes
 sails,01_Vision,Impossible Ask,1,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/03_Design/2023.12.14 PRESENTATION SHEETS.pdf,hero candidate — concept presentation to C2M/Intuit
-sails,01_Vision,Impossible Ask,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/08_3D/CLIPPER_OVERVIEW_double backboard concept sketch.3dm,3dm — needs render/screenshot for web
 sails,01_Vision,Impossible Ask,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/clipper_hull_5_1920px_.1.mov,hull concept animation
+sails,01_Vision,Impossible Ask,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/08_3D/CLIPPER_OVERVIEW_double backboard concept sketch.3dm,3dm — needs render/screenshot for web
 sails,02_Translation,Fork,1,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/03_Design/4in_5in_Mix_Yardarm_comparison.jpg,hero candidate — yardarm 4in/5in mix comparison
 sails,02_Translation,Fork,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/03_Design/5in_All_Yardarm_comparison.jpg,yardarm all-5in alternative
 sails,02_Translation,Fork,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/04_Drawings/CLIPPER_YARDARM 231117.PDF,yardarm rev 1 of 4 (231117→240214) — iteration timeline
 sails,02_Translation,Fork,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/04_Drawings/CLIPPER_YARDARM 240214.PDF,yardarm final rev
 sails,02_Translation,Fork,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/04_Drawings/clipper_50%.pdf,50% set
-sails,02_Translation,Transfer,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/clipper_spin_25percent.mov,model turntable
 sails,02_Translation,Transfer,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/360-spin_at_55inch_POV.mov,viewer-height POV spin
+sails,02_Translation,Transfer,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/clipper_spin_25percent.mov,model turntable
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2023-04/IMG_4954.MOV,[triage] 3D printing - binder jet
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/72643712592__D27DFE5E-A954-45E0-82ED-271E458679E5.mov,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3492.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3493.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3494.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3495.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3496.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3497.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3499.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3500.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3501.mov,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3502.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3503.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3504.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3505.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3506.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3507.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3508.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3509.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3510.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3647.MOV,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3668.mov,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3782.mov,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3937.mov,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-01/IMG_3939.mov,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-02/IMG_4316__1ced6a31.mov,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-02/IMG_4753.mov,[triage]
+sails,03_Prototyping,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2024-02/IMG_8013.MOV,[triage]
 sails,03_Prototyping,Fork,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/08_3D/BOW-STUDY_01.3dmbak,bow study 1/5 — render as progression
 sails,03_Prototyping,Fork,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/08_3D/BOW-STUDY_03.3dmbak,bow study 3/5
 sails,03_Prototyping,Fork,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/08_3D/BOW-STUDY_05.3dmbak,bow study 5/5
@@ -16,17 +44,22 @@ sails,03_Prototyping,Fork,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/08_3D/
 sails,03_Prototyping,Fork,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/08_3D/hull-05-VERSION-B.3dmbak,hull version B
 sails,04_Fabrication,Irreversibility,1,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/04_Drawings/#4321 LCI Clipper Ship Concrete Rebar SD (F114).pdf,HERO — same-day anchor-bolt/rebar resolution artifact
 sails,04_Fabrication,Irreversibility,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/04_Drawings/23111-0062 Clipper Ship - Baseplate Depression Set 2.7.2024.pdf,baseplate depression set
-sails,04_Fabrication,Irreversibility,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/09_Submittals/Clipper Ship - Baseplate Depression Letter 2.7.2024.pdf,"engineer letter, same day"
-sails,04_Fabrication,Irreversibility,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/09_Submittals/Clipper Ship Set Permit Resubmittal 12.20.2023.pdf,permit loop start
-sails,04_Fabrication,Irreversibility,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/09_Submittals/Clipper Ship Set Permit Resubmittal 1.17.2024.pdf,permit loop close
-sails,04_Fabrication,Irreversibility,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/09_Submittals/CLIPPER_BACKBOARD ALUM 240604 -for comment by  DCI.pdf,backboard alum for DCI comment
 sails,04_Fabrication,Outcome,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/04_Drawings/Steel Detailing Updates 3.19.2024.pdf,steel detailing
-sails,04_Fabrication,Outcome,1,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/06_Photos/clippers_bow_FAB_shop_lg.jpeg,hero candidate — bow in shop
-sails,04_Fabrication,Outcome,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/06_Photos/clippers_bow_FAB.jpeg,
+sails,04_Fabrication,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/06_Photos/2023-12/image.png,[triage]
+sails,04_Fabrication,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/06_Photos/2023-12/image2.png,[triage]
 sails,04_Fabrication,Outcome,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/06_Photos/clippers_FAB_grinder_B_roll.jpeg,B-roll
+sails,04_Fabrication,Outcome,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/06_Photos/clippers_bow_FAB.jpeg,
+sails,04_Fabrication,Outcome,1,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/06_Photos/clippers_bow_FAB_shop_lg.jpeg,hero candidate — bow in shop
 sails,04_Fabrication,Outcome,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/06_Photos/clippers_mastFAB_QC.jpeg,mast QC
 sails,04_Fabrication,Outcome,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/06_Photos/clippers_mast_16ft_section.jpeg,16ft mast section
+sails,04_Fabrication,Irreversibility,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/09_Submittals/CLIPPER_BACKBOARD ALUM 240604 -for comment by  DCI.pdf,backboard alum for DCI comment
+sails,04_Fabrication,Irreversibility,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/09_Submittals/Clipper Ship - Baseplate Depression Letter 2.7.2024.pdf,"engineer letter, same day"
+sails,04_Fabrication,Irreversibility,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/09_Submittals/Clipper Ship Set Permit Resubmittal 1.17.2024.pdf,permit loop close
+sails,04_Fabrication,Irreversibility,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/09_Submittals/Clipper Ship Set Permit Resubmittal 12.20.2023.pdf,permit loop start
 sails,05_Logistics,Outcome,1,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/06_Photos/clippers_logistics_mast_loading.jpeg,hero candidate — mast loading
+sails,05_Logistics,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2023-08/IMG_2486.MOV,[triage] b-roll
+sails,05_Logistics,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2023-08/IMG_9179.MOV,[triage] b-roll
+sails,05_Logistics,,0,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/07_Video/2023-08/IMG_9183.MOV,[triage] trash
 sails,07_Reveal,Outcome,1,01-Projects Vault/C2M/M100-SAILS_Clipper_Ship/06_Photos/clippers_3_masts_and_sky.jpeg,"hero candidate — installed, three masts"
 dots,01_Vision,Impossible Ask,0,01-Projects Vault/C2M/M101-DOTS_Distance_of_the_Sun/04_Drawings/23111-0051 Origami Progress Set 1.31.2024.pdf,progress set — timeline visual
 dots,02_Translation,Fork,1,01-Projects Vault/C2M/M101-DOTS_Distance_of_the_Sun/04_Drawings/DOTS-SECTION 01 240227.PDF,hero candidate — segmentation of 150ft form; full set SECTION 01–11 in 04_Drawings
