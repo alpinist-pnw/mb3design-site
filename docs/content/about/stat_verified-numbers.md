@@ -88,7 +88,7 @@ Mark confirmed these for use on 2026-08-27. They appeared in CVs submitted 2026-
 ### Copsey Communications (UK)
 - **£5.7M/yr** revenue; **85+** staff (largely contract); **3** regional managers; **35-person** London commissioning team
 - Subcontracts held with **BT, Skanska, Cable & Wireless**
-- Dates: **UNRESOLVED** — 2024 reference CV says 2006–2009; MSFT resume says 2007–2010. Do not cite years until Mark settles it.
+- Dates: **2007–2010** (LinkedIn, confirmed by Mark 2026-08-28). The 2024 reference CV's 2006–2009 is wrong.
 
 ### MB3 Design — AI-orchestrated Rhino pipeline (2025–2026)
 - **10-stage** idempotent build with hard constraint gates
@@ -98,8 +98,11 @@ Mark confirmed these for use on 2026-08-27. They appeared in CVs submitted 2026-
 - **JQB Ltd** — yacht design contract → FT Designer / Project Manager, M/Y Octopus build
 - **Globe Machine Manufacturing** — PM contract → FT Sales Engineer, then R&D Director
 
-### Early career dates (2024 reference CV)
-- JQB Ltd **2000–2003** · Globe Machine **2003–2006** · Copsey **2006–2009** (see Copsey note above)
+### Early career dates (LinkedIn = source of truth, confirmed 2026-08-28)
+- Globe Machine Manufacturing: Sales Engineer **Feb 2003 – Jan 2007**; R&D Director [3D Engineering tools] **Feb 2004 – Jan 2007** (overlapping)
+- Copsey Communications Consultants Ltd: Managing Director **2007–2010**
+- JQB Ltd: **2000–2003** (2024 reference CV; not yet checked against LinkedIn)
+- Rule: when CVs disagree on dates, LinkedIn wins; if LinkedIn is silent, ask Mark.
 
 ---
 
