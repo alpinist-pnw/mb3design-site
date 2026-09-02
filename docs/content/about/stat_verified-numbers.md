@@ -84,11 +84,18 @@ Mark confirmed these for use on 2026-08-27. They appeared in CVs submitted 2026-
 - Team **5 → 11** engineers/designers; **+210 billable hours/week**
 - Concurrent projects **3–5 → 5–8**
 - **1,200 sq ft** facility relocation and build-out
+- Capacity-forecasting horizons: **sprint-by-sprint** demand planning, run alongside **quarterly, 6-month and 12-month** outlooks (Mark, 2026-09-01). Supersedes the "2–4 week demand planning" phrasing that circulated in CVs and was never verified.
 
 ### Copsey Communications (UK)
 - **£5.7M/yr** revenue; **85+** staff (largely contract); **3** regional managers; **35-person** London commissioning team
 - Subcontracts held with **BT, Skanska, Cable & Wireless**
 - Dates: **2007–2010** (LinkedIn, confirmed by Mark 2026-08-28). The 2024 reference CV's 2006–2009 is wrong.
+
+### MB3 Design — engagement scale (Mark, 2026-09-01)
+- MB3's **own contracted projects: ~$8K–$80K** — bespoke small art projects, fabrication, 3D rendering contracts. This is the only project range attributable to MB3.
+- The Code2Matter public-art work (**$3.4M** program; **$1.8M** and **$1.6M** installations) was **contracted by Code2Matter, not MB3**. The contract and the liability were solely Code2Matter's; Mark was project lead, paid hourly, and those values never flowed through MB3's accounts. Attribute them to the Code2Matter role, never to MB3, and never as MB3 revenue.
+- Projects **managed** in the $200K–~$18M band were at **Pacific Studio**. See Project Scale above: attributing that range to MB3 is the recurring CV error.
+- Other MB3 work since 2019 is small contract-labour, hourly and gig work. Mark (2026-09-01): "nothing to brag about" — deliberately not a CV claim.
 
 ### MB3 Design — AI-orchestrated Rhino pipeline (2025–2026)
 - **10-stage** idempotent build with hard constraint gates
