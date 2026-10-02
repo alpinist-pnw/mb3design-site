@@ -105,6 +105,24 @@ Mark confirmed these for use on 2026-08-27. They appeared in CVs submitted 2026-
 - **JQB Ltd** — yacht design contract → FT Designer / Project Manager, M/Y Octopus build
 - **Globe Machine Manufacturing** — PM contract → FT Sales Engineer, then R&D Director
 
+### Globe Machine — First Student bus barn, Port of Tacoma (promoted 2026-10-02 per Mark)
+- **~$850K** project cost: tenant improvement and site development of an industrial property in Tacoma for its sole tenant, First Student (bus maintenance and storage). Sheet total **$850,322**, titled "Project totals - For Lease Purposes", so it may not capture every cost. Source: Globe archive, `bus/ST. PAUL Project.xls` (May 2004), on the MB3 Drive.
+- **4,304 sq ft** office (same sheet).
+- Client: Cal Bamford, owner of Globe Machine Mfg. Co. Mark was owner's rep and project lead.
+- Withdrawn, do not use: **$1.3M**, **8,000 sq ft** office, **15,000–20,000 sq ft** bus barn, "ground-up on a vacant lot". These were dictated from memory on 2026-10-01 and the archive contradicts them (Mark: figures confused with another project).
+
+### Older resume metrics (promoted 2026-10-02 per Mark: "I know they are accurate")
+Source: Mark's older resume (pages 2–3), pasted into a job-agent session 2026-10-02.
+- Globe Machine: 3D visualization and simulation sales presentations raised confirmed orders by **more than 17%**.
+- Globe Machine: configurators cut the time to design and document a conveyor by **66%** (matches Mark's separate account, 2026-10-01: from 3 days of an engineer's time to under 1 day, repeated many times).
+- Copsey: gross sales up **more than £1M a year (2008)** through new contracts with **Skanska, McNicholas and Telent**, while expanding work with **BT, Fujitsu and Cable & Wireless**.
+- ARK Interface / NEC Packard Bell: UX/UI on products shipping **over 3M units a year**; product returns down **about 10%**; company moved from **#12 to #1** by volume shipped **within 3 years**.
+
+Conflicts in that resume, resolved by Mark 2026-10-02 (do not use the resume's values):
+- M/Y Octopus: **$250M** stands (resume said $200M).
+- Copsey staff: **85+** stands (resume said 80+).
+- Copsey and Globe dates, and the Globe title: **LinkedIn wins** (Copsey 2007–2010, not 2006–2009; Globe to Jan 2007, not 2006; "R&D Director", not "R&D Manager – Computational Tools").
+
 ### Early career dates (LinkedIn = source of truth, confirmed 2026-08-28)
 - Globe Machine Manufacturing: Sales Engineer **Feb 2003 – Jan 2007**; R&D Director [3D Engineering tools] **Feb 2004 – Jan 2007** (overlapping)
 - Copsey Communications Consultants Ltd: Managing Director **2007–2010**
